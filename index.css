@@ -1,0 +1,24 @@
+.container{
+  width: 300px;
+  margin: auto;
+  border:2px solid black;
+  border-radius: 4px;
+  /* position: relative; */
+  background-color: lightblue;
+}
+input[type=button]{
+  width: 20%;
+  margin: 2%;
+  border-radius: 4px;
+  font-size: 20px;
+  font-weight: 900;
+  background-color:aqua;
+  
+}
+input[type=text]{
+ width: 90%;
+ margin: 7px auto;
+ /* position: relative; */
+ font-size: 20px;
+ display: block;
+}
